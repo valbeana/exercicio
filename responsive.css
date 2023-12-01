@@ -1,0 +1,29 @@
+@media  screen and (max-width: 600px) {
+    #contacts-desktop {
+        display: none;
+    }
+
+    #contacts-moblile {
+        display: block;
+    }
+
+    .contact-card {
+        background-color: #fff;
+        margin: 0 auto 20px auto;
+        padding: 20px;
+        width: 85%;
+        box-shadow: 7px 7px #d5b8ff;
+    }
+
+    .contact-row {
+        margin-bottom: 5px;
+    }
+
+    .key {
+        font-family: 'bold';
+    }
+
+    .volue {
+        font-family: 'regular';
+    }
+}
